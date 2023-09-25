@@ -3,7 +3,7 @@ A pen-and-paper-like colorscheme for Vim and Neovim.
 
 ## Acknowledgements
 
-@abrsvn made this colorscheme, I just turned it into a plugin and am distributing it. He said it to looks like "Blue ink on paper" and thats why he loves it so much, so I named it Pen-n-Paper
+[@abrsvn](https://github.com/abrsvn) made this colorscheme, I just turned it into a plugin and am distributing it. He said it to looks like "Blue ink on paper" and thats why he loves it so much, so I named it Pen-n-Paper
 
 ## How To Use
 
